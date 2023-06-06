@@ -11,7 +11,7 @@ This is a simple Todo app built with React, TypeScript, and styled-components. I
 
 1. Clone the repository:
 
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/liamkande/myTodoApp.git
 
 2. Navigate to the project directory:
 
